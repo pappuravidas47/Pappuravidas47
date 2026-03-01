@@ -34,10 +34,10 @@ I'm Pappu Kumar Ravidas, a 2nd-year Computer Science student and Frontend Develo
 
 <p align="center">
   <a href="https://github.com/Pappuravidas47">
-    <img src="https://komarev.com/ghpvc/?username=Saboo24&color=3a8296&label=Profile%20Views" />
+    <img src="https://komarev.com/ghpvc/?username=Pappuravidas47&color=3a8296&label=Profile%20Views" />
   </a>
   <a href="https://github.com/Pappuravidas47">
-    <img src="https://img.shields.io/github/followers/Saboo24?label=GitHub%20Followers&color=3a8296&style=flat" />
+    <img src="https://img.shields.io/github/followers/Pappuravidas47?label=GitHub%20Followers&color=3a8296&style=flat" />
   </a>
 </p>
 
@@ -46,7 +46,7 @@ I'm Pappu Kumar Ravidas, a 2nd-year Computer Science student and Frontend Develo
 ### 🧠 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,js,html,css&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,c,js,python,html,css&theme=light" />
   </a>
 </p>
 
@@ -61,20 +61,24 @@ I'm Pappu Kumar Ravidas, a 2nd-year Computer Science student and Frontend Develo
 
 ---
 
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
-<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Saboo24&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
-<img src="https://streak-stats.demolab.com?user=Saboo24&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pappuravidas47&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pappuravidas47&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 ---
 
-### 🧩 Most Used Languages
+## 🧩 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pappuravidas47
-&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&custom_title=Most%20Used%20Languages" height="170em"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,java" />
+</p>
 
+<p align="center">
+<b>HTML • CSS • JavaScript • C • Java</b>
+</p>
 ---
 
 ## 🏆 Top Contributed Repo
