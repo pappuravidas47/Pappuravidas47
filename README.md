@@ -1,18 +1,23 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Pappu%20Kumar%20Ravidas&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
 
-I'm Pappu Kumar Ravidas, a 2nd-year Computer Science student and Frontend Developer 
+---
+
+## 👨‍💻 About Me
+
+I'm **Pappu Kumar Ravidas**, a **BTech CSE Student** and passionate Frontend Developer 🚀  
 
 💡 *“Crafting logic and elegance in every line of code.”*
 
 ---
 
+<!-- 💻 Coding GIF -->
 <div align="center">
-    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
+  <img src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="80%" />
 </div>
 
 ---
 
-### 📬 Connect with Me  
+## 📬 Connect with Me  
 
 <p align="center">
 
@@ -41,12 +46,13 @@ I'm Pappu Kumar Ravidas, a 2nd-year Computer Science student and Frontend Develo
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,figma,aws,vercel,firebase,postman,idea,vscode&theme=light" />
 </p>
+
 ---
 
 ## 🧠 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,python,html,css,react,nodejs,django,flask,express,mongodb&perline=20&theme=light" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,python,html,css,react,nodejs,django,flask,express,mongodb&perline=15&theme=light" />
 </p>
 
 ---
@@ -54,27 +60,34 @@ I'm Pappu Kumar Ravidas, a 2nd-year Computer Science student and Frontend Develo
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pappuravidas47&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pappuravidas47&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pappuravidas47&show_icons=true&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pappuravidas47&theme=default&hide_border=true" height="165"/>
 </p>
+
+<p align="center">
+  <img src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" height="200"/>
+</p>
+
 
 ---
 
 ## 🏆 Top Contributed Repo
 
-<img src="https://github-contributor-stats.vercel.app/api?username=pappuravidas47
-&limit=5&theme=radical&combine_all_yearly_contributions=true&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=pappuravidas47&limit=5&theme=default&combine_all_yearly_contributions=true&title_color=000000&text_color=000000&bg_color=ffffff&border_color=3a8296&hide_border=false" height="170em"/>
+</p>
 
-- 🎓 **University Website Clone**
-- 🛒 **Amazon Clone**
-- 🛍 **Flipkart Clone**
-- ❌⭕ **Tic Tac Toe Game (JavaScript)**
+- 🎓 **University Website Clone**  
+- 🛒 **Amazon Clone**  
+- 🛍 **Flipkart Clone**  
+- ❌⭕ **Tic Tac Toe Game (JavaScript)**  
 
 ---
 
 ## ✍️ Random Dev Quote
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&border_color=61DAFB&text_color=61DAFB" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 </p>
 
 ---
