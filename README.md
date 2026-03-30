@@ -12,7 +12,7 @@ I'm **Pappu Kumar Ravidas**, a **BTech CSE Student** and passionate Frontend Dev
 
 <!-- 💻 Coding GIF -->
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="80%" />
+  <img src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="60%" />
 </div>
 
 ---
