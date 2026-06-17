@@ -29,7 +29,7 @@ Consistency > Motivation 🎓❤️
 <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.instagram.com/iamhappiness74">
+<a href="https://www.instagram.com/iamhappiness45">
 <img src="https://skillicons.dev/icons?i=instagram&theme=light" />
 </a>&nbsp;&nbsp;&nbsp;
 
