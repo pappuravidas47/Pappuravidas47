@@ -22,26 +22,16 @@ Consistency > Motivation 🎓❤️
 ---
 
 ## 📬 Connect with Me  
+  
+  <p align="center">
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/pappuravidas47">
-<img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/iamhappiness45">
-<img src="https://skillicons.dev/icons?i=instagram&theme=light" />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://discord.com/users/pappuravidas47">
-<img src="https://skillicons.dev/icons?i=discord&theme=light" />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:pappurvidascs47@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail&theme=light" />
-</a>&nbsp;&nbsp;&nbsp;
-
-</p>
+<a href="https://linkedin.com/in/pappuravidas47" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="pappuravidas47" height="50" width="50" /></a>
+<a href="https://fb.com/Iamhappiness45" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504903.png" alt="Iamhappiness45" height="50" width="50" /></a>
+<a href="https://instagram.com/iamhappiness45" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/1384/1384063.png" alt="iamhappiness45" height="50" width="50" /></a>
+<a href="https://discord.com/users/pappuravidas47" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3670/3670157.png" alt="discord" height="50" width="50" /></a>
+<a href="https://wa.me/919162968113" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/15707/15707820.png" alt="whatsapp" height="50" width="50" /></a>
+<a href="https://t.me/Iamhappiness45" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968804.png" alt="telegram" height="50" width="50" /></a>
+<a href="https://snapchat.com/add/iamhappiness45" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/1409/1409941.png" alt="snapchat" height="50" width="50" /></a>
 
 ---
 
