@@ -16,7 +16,7 @@ Consistency > Motivation 🎓❤️
 
 <!-- 💻 Coding GIF -->
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="60%" />
+  <img src="https://camo.githubusercontent.com/9e7e054f97008a0e71e75db243d40d2e92b713c13e8f19ac28fc1f216e9345ad/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" width="50%" />
 </div>
 
 ---
@@ -24,14 +24,14 @@ Consistency > Motivation 🎓❤️
 ## 📬 Connect with Me  
   
   <p align="center">
-
 <a href="https://linkedin.com/in/pappuravidas47" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="pappuravidas47" height="50" width="50" /></a>
-<a href="https://fb.com/Iamhappiness45" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504903.png" alt="Iamhappiness45" height="50" width="50" /></a>
 <a href="https://instagram.com/iamhappiness45" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/1384/1384063.png" alt="iamhappiness45" height="50" width="50" /></a>
-<a href="https://discord.com/users/pappuravidas47" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3670/3670157.png" alt="discord" height="50" width="50" /></a>
+<a href="https://fb.com/Iamhappiness45" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504903.png" alt="Iamhappiness45" height="50" width="50" /></a>
 <a href="https://wa.me/919162968113" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/15707/15707820.png" alt="whatsapp" height="50" width="50" /></a>
+<a href="https://discord.com/users/pappuravidas47" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3670/3670157.png" alt="discord" height="50" width="50" /></a>
 <a href="https://t.me/Iamhappiness45" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968804.png" alt="telegram" height="50" width="50" /></a>
 <a href="https://snapchat.com/add/iamhappiness45" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/1409/1409941.png" alt="snapchat" height="50" width="50" /></a>
+</p>
 
 ---
 
