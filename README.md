@@ -1,18 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=PAPPU%20KUMAR%20RAVIDAS&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=B.Tech%20CSE%20%7C%20Aspire%20Leaders%20Fellow%20%7C%20Software%20%20Developer&descAlignY=52&descSize=18&descColor=fff"/>
 
 ---
-
-## 🌟 About Me
-
-B.Tech CSE | Harvard Aspire Leaders Program Fellow |
-Future Software Engineer
-Focused on DSA, Projects & Open Source  
-Consistency > Motivation 🎓❤️
-
+![](https://github.com/pappuravidas47/pappuravidas47/blob/main/chat.svg)
 ---
 
 💡 *“Crafting logic and elegance in every line of code.”*
-
 
 <!-- 💻 Coding GIF -->
 <div align="center">
