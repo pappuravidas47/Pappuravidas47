@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Pappu%20Kumar%20Ravidas&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=PAPPU%20KUMAR%20RAVIDAS&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=B.Tech%20CSE%20%7C%20Aspire%20Leaders%20Fellow%20%7C%20Software%20%20Developer&descAlignY=52&descSize=18&descColor=fff"/>
 
 ---
 
@@ -86,4 +86,16 @@ Consistency > Motivation 🎓❤️
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
+<p style="text-align:center; font-size:18px; font-style:italic;">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+</p>
+
+<p style="text-align:center; font-weight:bold; font-size:16px;">
+
+
+  
+⭐ If you like what I do, consider giving my repos a star! ⭐
+</p>
+
+
