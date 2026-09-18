@@ -4,13 +4,8 @@
 
 ## 🌟 About Me
 
-B.Tech CSE | Harvard Aspire Leaders Program Fellow |
-Future Software Engineer
-Focused on DSA, Projects & Open Source  
-Consistency > Motivation 🎓❤️
-
+![](https://github.com/pappuravidas47/pappuravidas47/blob/main/chat.svg)
 ---
-
 💡 *“Crafting logic and elegance in every line of code.”*
 
 
