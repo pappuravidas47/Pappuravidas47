@@ -47,21 +47,16 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pappuravidas47&show_icons=true&theme=default&hide_border=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pappuravidas47&theme=default&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/pappuravidas47/pappuravidas47/blob/main/birds.svg" width="50%" />
+  <img src="https://github.com/pappuravidas47/pappuravidas47/blob/main/birds.svg" width="40%" />
 </p>
 
 ---
 
 ## 🏆 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=pappuravidas47&limit=5&theme=default&combine_all_yearly_contributions=true&title_color=000000&text_color=000000&bg_color=ffffff&border_color=3a8296&hide_border=false" height="170em"/>
-</p>
 
 - 🎓 **University Website Clone**
 - 🛒 **Amazon Clone**
@@ -69,7 +64,7 @@
 - ❌⭕ **Tic Tac Toe Game (JavaScript)**
 
 <p align="center">
-  <img src="https://github.com/pappuravidas47/pappuravidas47/blob/main/robot.svg" width="250" />
+  <img src="https://github.com/pappuravidas47/pappuravidas47/blob/main/robot.svg" width="240" />
 </p>
 
 ---
