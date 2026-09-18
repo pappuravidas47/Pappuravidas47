@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=PAPPU%20KUMAR%20RAVIDAS&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=B.Tech%20CSE%20%7C%20Aspire%20Leaders%20Fellow%20%7C%20Software%20%20Developer&descAlignY=52&descSize=18&descColor=fff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=PAPPU%20KUMAR%20RAVIDAS&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Government%20Engineering%20%20College%20Ramgarh&descAlignY=52&descSize=18&descColor=fff"/>
 
 ---
 
@@ -6,12 +6,18 @@
 
 ![](https://github.com/pappuravidas47/pappuravidas47/blob/main/chat.svg)
 ---
+
+<a href='https://buymeacoffee.com/pappuravidas47' target='_blank'><img style='border:0px;height:26px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
+<a href="https://github.com/sponsors/pappuravidas47" target='_blank'><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" style='border:0px;height:26px;'></a>
+<a href="https://github.com/pappuravidas47" target='_blank'><img src="https://img.shields.io/badge/MIT%20License-2b9348?style=flat&logo=monkeytie&logoColor=white" style='border:0px;height:26px;'></a>
+</p>
+
 💡 *“Crafting logic and elegance in every line of code.”*
 
 
 <!-- 💻 Coding GIF -->
 <div align="center">
-  <img src="https://camo.githubusercontent.com/9e7e054f97008a0e71e75db243d40d2e92b713c13e8f19ac28fc1f216e9345ad/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" width="50%" />
+  <img src="https://camo.githubusercontent.com/9e7e054f97008a0e71e75db243d40d2e92b713c13e8f19ac28fc1f216e9345ad/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" width="60%" />
 </div>
 
 ---
@@ -24,8 +30,8 @@
 <a href="https://fb.com/Iamhappiness45" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504903.png" alt="Iamhappiness45" height="50" width="50" /></a>
 <a href="https://wa.me/919162968113" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/15707/15707820.png" alt="whatsapp" height="50" width="50" /></a>
 <a href="https://discord.com/users/pappuravidas47" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3670/3670157.png" alt="discord" height="50" width="50" /></a>
-<a href="https://t.me/Iamhappiness45" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968804.png" alt="telegram" height="50" width="50" /></a>
 <a href="https://snapchat.com/add/iamhappiness45" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/1409/1409941.png" alt="snapchat" height="50" width="50" /></a>
+<a href="https://t.me/Iamhappiness45" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968804.png" alt="telegram" height="50" width="50" /></a>
 </p>
 
 ---
@@ -64,7 +70,7 @@
 - ❌⭕ **Tic Tac Toe Game (JavaScript)**
 
 <p align="center">
-  <img src="https://github.com/pappuravidas47/pappuravidas47/blob/main/robot.svg" width="240" />
+  <img src="https://github.com/pappuravidas47/pappuravidas47/blob/main/robot.svg" width="220" />
 </p>
 
 ---
