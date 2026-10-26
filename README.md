@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=PAPPU%20KUMAR%20RAVIDAS&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Government%20Engineering%20%20College%20Ramgarh&descAlignY=52&descSize=18&descColor=fff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=PAPPU%20KUMAR%20RAVIDAS&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Ramgarh%20Engineering%20%20College&descAlignY=52&descSize=18&descColor=fff"/>
 
 ---
 
